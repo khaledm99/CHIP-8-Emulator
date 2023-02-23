@@ -9,3 +9,4 @@ TODO:
 - Debug and fix incorrect behaviour with jumping opcodes
 - Complete implementation of remaining opcodes
 - Implement debug features such as single-cycle stepping, emulator pausing, memory viewing/editing, color-scheme selection, and variable CPU-option selection
+- Record demo/screenshots for git repo
